@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+npm run buildimport React, { Component } from 'react';
 
 const Timeline  = (props) => {
   const data = props.portfolioData;

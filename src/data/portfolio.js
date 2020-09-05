@@ -17,20 +17,20 @@ const portfolioData = {
 		},	
 		
 		{
-			"id": 2,
+			"id": 1,
 			"title": "Zapped Tech Company Portfolio",
 			"imageUrl": "images/portfolio/hataw-web.png",
 			"link": "http://www.zapped.in/",
-			"codeLink": "",
+			"codeLink": "https://github.com/sushant234/zapped-public/tree/master/zap",
 			"description": "Zapped Tech is our tech startup and contains all our quality services.",
 			"technology": ["HTML/CSS", "SASS(SCSS)", "React", "Django"],
 		},
 				{
-			"id": 4,			
+			"id": 2,			
 			"title": "Cold Storage commercial shop",
 			"imageUrl": "images/portfolio/react-todo-thumbnail.png",
-			"link": "",
-			"codeLink": "https://github.com/jrussumbrella/react-paper-todo",
+			"link": "https://www.cruzos.com",
+			"codeLink": "https://github.com/sushant234/Cruzos",
 			"description": "This website intends to sell their cold storage meat products online with a secure payment gateway and assisted delivery service",
 			"technology": ["HTML", "Paper CSS", "React", "Django", "Bootstrap", "Animate.css"]			
 		},
